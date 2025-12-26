@@ -1,5 +1,11 @@
 # Sharpe-out-of-sample
-Formulas for out-of-sample Sharpe ratio under estimation error from [In-Sample and Out-of-Sample Sharpe Ratios of Multi-Factor Asset Pricing Models (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454628) by Kan, Wang, and Zheng.
+Formulas for out-of-sample Sharpe ratio under estimation error from [In-Sample and Out-of-Sample Sharpe Ratios of Multi-Factor Asset Pricing Models (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454628) by Kan, Wang, and Zheng. Given
+
+<b>theta</b>: true Sharpe ratio<br>
+<b>T</b>: # of observations<br>
+<b>N</b>: # of assets<br>
+
+the in-sample Sharpe (hat) and out-of-sample (tilde) Sharpe ratios are computed. The difference between in-sample and out-of-sample Sharpe ratios decreases with theta and T and increases with N.
 
 `python xsharpe.py` gives
 
