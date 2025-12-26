@@ -3,6 +3,8 @@ Formulas for out-of-sample Sharpe ratio under estimation error from [In-Sample a
 
 `python xsharpe.py` gives
 
+![Alt text](/fig1_replication.png)
+
 ```
 wrote: fig1_replication.png
 M: 200000
