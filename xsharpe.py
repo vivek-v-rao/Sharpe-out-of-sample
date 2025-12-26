@@ -175,7 +175,7 @@ def replicate_figure1(theta_max=0.6, ngrid=301, savepath="fig1_replication.png",
 def main():
 
     pd.set_option("display.float_format", "{:.4f}".format)
-    do_plot = False
+    do_plot = True
     if do_plot:
         # Replicate Fig. 1 using eqs. (11)-(12)
         out = replicate_figure1(show=True)
@@ -205,3 +205,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
