@@ -1,5 +1,5 @@
 # Sharpe-out-of-sample
-Formulas for out-of-sample Sharpe ratio under estimation error from [In-Sample and Out-of-Sample Sharpe Ratios of Multi-Factor Asset Pricing Models (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454628) by Kan, Wang, and Zheng and [In-Sample and Out-of-Sample Sharpe Ratios for Linear Predictive Models (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086171) by Mulligan, Jacquier, and Muhle-Karbe. Given
+Formulas for out-of-sample Sharpe ratio under estimation error from [In-Sample and Out-of-Sample Sharpe Ratios of Multi-Factor Asset Pricing Models (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3454628) by Kan, Wang, and Zheng and [In-Sample and Out-of-Sample Sharpe Ratios for Linear Predictive Models (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086171) by Mulligan, Jacquier, and Muhle-Karbe. For the paper by Kan et al., given
 
 <b>theta</b>: true Sharpe ratio<br>
 <b>T</b>: # of observations<br>
