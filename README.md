@@ -88,6 +88,11 @@ exact     0.4890 0.5119 -0.0229
 simulated 0.4890 0.5119 -0.0230
 ```
 
-`python xlinear_predictive_models_sr.py` creates figures
-
-
+`python xlinear_predictive_models_sr.py` creates figures that should match those from Mulligan et al.
+![Alt text](/fig2_c2tilde_positive_t1_1260.png)
+![Alt text](/fig2_c2tilde_positive_t1_252.png)
+![Alt text](/fig2_c2tilde_positive_t1_2520.png)
+![Alt text](/fig5_univariate_curves.png)
+![Alt text](/fig5_univariate_heatmap.png)
+![Alt text](/fig6_multivariate_replication_ratio.png)
+![Alt text](/fig8_kwz_comparison.png)
